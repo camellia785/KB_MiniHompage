@@ -12,3 +12,7 @@
 
 - navigation.md 추가
 - 로그인/로그아웃 추가
+
+## 장바구니 페이지 추가
+
+- wishList.md 추가
